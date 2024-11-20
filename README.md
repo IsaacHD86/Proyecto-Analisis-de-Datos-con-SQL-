@@ -19,7 +19,7 @@ SELECT, FROM, WHERE, LIKE, COUNT, MAX.
 INNER JOIN, LEFT JOIN, GROUP BY, HAVING.                                                                                 
 WITH (para crear subconsultas legibles).     
 
-### Resultados y Conclusiones
+### Resultados.
 
 Exploración de Datos:                                                                                                                 
 Obtuvimos información detallada sobre películas, actores y clientes.                                                                                                  
@@ -32,7 +32,7 @@ Práctica de combinaciones de tablas, subconsultas y filtros para análisis efec
 Aplicaciones:                                                                                                                                    
 Los resultados pueden ayudar a tomar decisiones sobre la administración del catálogo de películas, la atención al cliente y la gestión de inventarios.
 
-### Conclusión                                                                                                                                                                    
+### Conclusión.                                                                                                                                                                    
 Este proyecto refuerza habilidades de análisis de bases de datos con SQL, enfocándose en consultas prácticas que simulan problemas del mundo real en un sistema de alquiler de películas.
 
 ## Autor
